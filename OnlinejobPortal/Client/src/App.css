@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
+*{
+    font-family: "Radio Canada Big", sans-serif;
+}
+:root{
+    --clr-primary-dark: rgb(13, 27, 42);
+    --clr-secondary-dark: rgb(27, 38, 59);
+    --clr-default: rgb(65, 90, 119);
+    --clr-primary-light: rgb(119, 141, 169);
+    --clr-secondary-light: rgb(224, 225, 221);
+}
